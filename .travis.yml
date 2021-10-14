@@ -1,3 +1,4 @@
 language: generic
 script:
 - bash test_hello.sh
+- bash test_bye.sh
